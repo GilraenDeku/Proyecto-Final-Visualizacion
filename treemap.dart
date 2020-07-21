@@ -58,7 +58,7 @@ class MyHomePage extends StatelessWidget {
                     margin: EdgeInsets.all(5),
                   ),
                   TreeNode.leaf(
-                    label: 'Región Huetar Norte'
+                    label: 'Región Huetar Norte',
                     value:  68797,
                     margin: EdgeInsets.all(5),
                   ),

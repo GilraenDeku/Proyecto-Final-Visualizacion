@@ -33,27 +33,33 @@ class MyHomePage extends StatelessWidget {
                 // padding: EdgeInsets.symmetric(horizontal: 20),
                 children: [
                   TreeNode.leaf(
-                    value: 16,
+                    label: 'Región Central',
+                    value: 592035,
                     margin: EdgeInsets.all(5),
                   ),
                   TreeNode.leaf(
-                    value: 57,
+                    label: 'Región Chorotega',
+                    value: 48761,
                     margin: EdgeInsets.all(5),
                   ),
                   TreeNode.leaf(
-                    value: 97,
+                    label: 'Región Pacífico Central',
+                    value:  43442,
                     margin: EdgeInsets.all(5),
                   ),
                   TreeNode.leaf(
-                    value: 3,
+                    label: 'Región  Brunca',
+                    value: 50240,
                     margin: EdgeInsets.all(5),
                   ),
                   TreeNode.leaf(
-                    value: 43,
+                    label: 'Región Huetar Caribe',
+                    value:  60999,
                     margin: EdgeInsets.all(5),
                   ),
                   TreeNode.leaf(
-                    value: 54,
+                    label: 'Región Huetar Norte'
+                    value:  68797,
                     margin: EdgeInsets.all(5),
                   ),
                 ]),
